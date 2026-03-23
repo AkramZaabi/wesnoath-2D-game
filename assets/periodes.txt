@@ -1,0 +1,6 @@
+1 Aube 0 0 0 0
+2 Jourmatin 25 -25 -25 0
+3 Jourapresmidi 25 -25 -25 0
+4 Crepuscule 0 0 0 0
+5 Nuitpremierquart -25 25 -25 0
+6 Nuitdeuxiemequart 25 25 25 0
